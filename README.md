@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning https://github.com/rolling-scopes-school/tasks/tree/master/stage1
 <!--
 **AxelC0de/AxelC0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
